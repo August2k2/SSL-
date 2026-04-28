@@ -1,1 +1,14 @@
 # SSL-
+--Compilador seleccionado: GCC 13.2.0
+--Versión: 13.2.0  
+--Version de C que soporta gcc: 
+                                -std=c11                    
+                                -std=c17    
+                                -std=c18                                                
+                                -std=c1x                  
+                                -std=c2x                   
+                                -std=c89             
+                                -std=c90.
+                                -std=c90                    
+                                -std=c99                    
+                                -std=c9x 
